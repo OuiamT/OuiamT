@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Ouiam 👋
 
-<!--
-**OuiamT/OuiamT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst learning Python and SQL by building real-world data projects.
 
-Here are some ideas to get you started:
+## About me
+- Aspiring Data Analyst learning through practical, real-world datasets  
+- Interested in data cleaning, exploratory data analysis, and visualization  
+- Actively improving Python, Pandas, and SQL skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming: Python
+- Data Analysis: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- Databases: SQL
+- Tools: Git, GitHub, Jupyter Notebook
+
+## Certificates
+- 
+
+## Contact
+- Email: tarikouiam24@gmail.com
