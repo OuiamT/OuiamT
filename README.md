@@ -15,7 +15,7 @@ Aspiring Data Analyst learning Python and SQL by building real-world data projec
 - Tools: Git, GitHub, Jupyter Notebook
 
 ## Certificates
-- 
+- Python 101 for Data Science (IBM)
 
 ## Contact
-- Email: tarikouiam24@gmail.com
+- Email:  tarikouiam24@gmail.com
