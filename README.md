@@ -14,14 +14,8 @@
 - Actively improving Python, Pandas, and SQL skills
 
 ## 🛠️ Skills
-- Programming: Python
-- Data Analysis: Pandas, NumPy
-- Visualization: Matplotlib, Seaborn
-- Databases: SQL
-- Tools: Git, GitHub, Jupyter Notebook
 <p>
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
