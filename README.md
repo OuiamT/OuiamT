@@ -19,6 +19,11 @@
 - Visualization: Matplotlib, Seaborn
 - Databases: SQL
 - Tools: Git, GitHub, Jupyter Notebook
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,Pandas,NumPy,Matplotlib,Seaborn,git,github,vscode,Jupyter Notebook,figma&perline=7" />
+  </a>
+</p>
 
 ## 🎓 Certificates
 - 📜 **Python 101 for Data Science** -(IBM)
