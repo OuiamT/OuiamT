@@ -21,7 +21,8 @@
 </p>
 
 ## 🎓 Certificates
-- 📜 **Python 101 for Data Science** -(IBM)
+- **Python 101 for Data Science** -(IBM)
+- **GitHub Fondations** -(DataCamp)
 
 ## Contact
 - Email:  tarikouiam24@gmail.com
